@@ -1,7 +1,6 @@
 ### Desafio de performance Sicredi
 ---
-
-## Em refinamento com o time e área de negócio, foi informado que a aplicação terá um pico de 
+Em refinamento com o time e área de negócio, foi informado que a aplicação terá um pico de 
 utilização no quinto dia útil do mês. São esperados 1000 acessos por hora no período da manhã 
 e esse pico é atingido em 30 minutos, mantendo-se estável até o final da manhã e reduzindo 
 até o final do dia. 
@@ -11,7 +10,7 @@ enquanto a consulta por endereço terá 40%.
 A documentação e exemplos de utilização da API podem ser obtidas em: https://viacep.com.br
 
 Neste desafio o objetivo é criar um projeto de performance com as seguintes configurações e 
-<sub><b> requisitos mínimos:</b></sub>
+requisitos mínimos:
 1. Ramp up de 30 minutos;
 2. Steady State de 60 minutos;
 3. Think time randômico entre os requests, variando de 100ms a 1000ms;
