@@ -1,4 +1,4 @@
-### Desafio de performance Sicredi
+### Desafio de performance 
 ---
 Em refinamento com o time e área de negócio, foi informado que a aplicação terá um pico de 
 utilização no quinto dia útil do mês. São esperados 1000 acessos por hora no período da manhã 
